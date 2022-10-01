@@ -1,6 +1,6 @@
 class Person {
-    protected String name;
-    protected String surName;
+    private String name;
+    private String surName;
 
     public String getName() {
         return name;
